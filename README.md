@@ -150,10 +150,12 @@ University of Limoges, France
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 - Google Data Analytics Professional Certificate
 - Packt: Real-World SQL Projects – 5 Hands-On Case Studies
+
+![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
