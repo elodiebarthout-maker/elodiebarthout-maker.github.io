@@ -13,7 +13,6 @@ Data analyst with 4+ years of experience analyzing complex biological and resear
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Google%20Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -153,9 +152,9 @@ University of Limoges, France
 ## 📜 Certifications
 
 - Google Data Analytics Professional Certificate
-- Packt: Real-World SQL Projects – 5 Hands-On Case Studies
-
+  
 ![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+- Packt: Real-World SQL Projects – 5 Hands-On Case Studies
 
 ---
 
