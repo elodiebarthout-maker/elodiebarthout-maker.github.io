@@ -172,7 +172,6 @@ https://github.com/elodiebarthout-maker
 
 ## Currently Learning
 
-- Advanced SQL
 - Tableau Dashboards
 - Power BI
 - Machine Learning with Python
